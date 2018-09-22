@@ -15,6 +15,9 @@
 ## Slides
 * [CS 7643: Deep Learning](https://www.cc.gatech.edu/classes/AY2018/cs7643_fall/slides/L6_cnns_annotated.pdf)
 
+* [Convolutional Neural Network Architectures: from LeNet to ResNet](http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
+
+* [Lecture 9:CNN Architectures](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf)
 
 
 
